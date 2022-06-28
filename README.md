@@ -9,6 +9,4 @@ In computer science, it is the name given to algorithms that perform the operati
 * Merge Sort
 * Quick Sort
 * Selection Sort
-=======
-# SortingAlgorithms
->>>>>>> 06000a9dd0701ed83ffa7e45f6b152daa433083d
+
